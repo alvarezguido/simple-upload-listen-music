@@ -1,4 +1,4 @@
-# Welcome to this simple Upload & LIsten to music
+# Welcome to this simple Upload & Listen to music
 
 All that I just used is: node.js with express, JS, JQuery and very simple HTML
 
