@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Upload & Listen App</title>
+  </head>
+  <body>
+    <form id="frmUploader" action="/upload/" enctype="multipart/form-data" method="post" >
+      <p></p>
+      <input type="file" name="songUploader"/>
+      <input type="submit" value="Upload"/>
+      </form>
+      <p></p>
+      <form action="./song_show.html" method="get">
+        <p></p>
+        <input type="submit" value="Show songs available">
+      </form>
+  </body>
+</html>
